@@ -1,0 +1,70 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Payouts</h1>
+    <thead>
+        <tr>
+            <p>
+            <th><b>Payee</b></th>
+            <th><b>Amount</b></th>
+            <th><b>Date</b></th>
+            <th><b>Status</b></th><br></p>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <tbody>
+                <tr>
+                  <td>
+                    <b>John Wick</b><br>
+                    Shoota Inc
+                  </td>
+                  <td>Ksh.42,000</td>
+                  <td>Jan 13 2000</td>
+                  <td>Processing</td><br>
+                  <tbody>
+                    
+                      <td>
+                        <b>Willem Dafoe</b><br>
+                        Spider Inc 
+                      </td>
+                      <td>Ksh.82,000</td>
+                      <td>Dec 08 2023</td>
+                      <td>Success</td><br>
+                      <td>
+                       <b>Brylian Shynne</b><br>
+                        Roundhouse Inc</td>
+                      </td>
+                      <td>Ksh.82,000</td>
+                      <td>Apr 13 2024</td>
+                      <td>Success</td><br>
+                      <td>
+                    </td>
+
+                        <b>Peter Luke</b><br>
+                        Convicts Inc 
+                      </td>
+                      <td>Ksh.82,000</td>
+                      <td>Nov 23 2012</td>
+                      <td>Success</td><br>
+
+                      
+                    </tr>
+                  
+    </tbody>
+    <tfoot>
+        <tr>
+<td>
+    Total Paid
+</td>
+<td colspan="3">Ksh 288,000</td>
+        </tr>
+    </tfoot>
+</body>
+</html>
